@@ -1,2 +1,2 @@
 
-let yourArray = [2, "three", true, false, undefined, null];
+let yourArray = [2, "before each", false, undefined, null];
