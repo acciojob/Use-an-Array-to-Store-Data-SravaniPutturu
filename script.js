@@ -1,2 +1,2 @@
 
-let yourArray = [2, "before each", false, undefined, null];
+let yourArray = [2, "should contain string", false, undefined, null];
